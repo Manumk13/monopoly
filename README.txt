@@ -30,3 +30,11 @@ tercer commit and push
 creamos una nueva interfaz IOwnable de la clase cell.java e implementamos los getter y setters del Proprietary(player) y de isAvailable()
 actualizamos readme
 cuarto commit and push
+
+4
+
+Extraemos el bucle for del metodo getRent() y lo metemos en un nuevo metodo  calcMonopoliesRent() y pasamos las variables que nos interesan
+Actualizamos el readme
+quinto commit and push
+
+5
