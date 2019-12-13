@@ -27,3 +27,6 @@ actualizamos el readme
 tercer commit and push
 
 3
+creamos una nueva interfaz IOwnable de la clase cell.java e implementamos los getter y setters del Proprietary(player) y de isAvailable()
+actualizamos readme
+cuarto commit and push
