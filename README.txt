@@ -44,3 +44,9 @@ Actualizamos el readme
 sexto commit and push
 
 6
+
+cambiamos la estructura de los metodos getPropertyNumberForColor y  playAction() añadiendo lo pedido en la practica.
+arreglamos los metodos que causan error
+actualizamos el readme
+
+ultimo commit and push
