@@ -16,4 +16,14 @@ Tambien hemos ejecutado el main para ver que ejecuta la aplicacion de forma corr
 
 Refactorizamos la clase cell cambiando el owner 
 Actualizamos el readme
-hacemos el segundo commit
+hacemos el segundo commit and push
+
+2
+
+
+hacemos un push down  en available(cell.java) para crear  un errror en la super clase y despues lo 
+arreglamos haciendo un pull up en el available(gocell.java) 
+actualizamos el readme
+tercer commit and push
+
+3
