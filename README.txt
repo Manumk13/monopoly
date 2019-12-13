@@ -38,3 +38,9 @@ Actualizamos el readme
 quinto commit and push
 
 5
+
+Extraeremos la variable para ponerla de forma local  como un String
+Actualizamos el readme 
+sexto commit and push
+
+6
