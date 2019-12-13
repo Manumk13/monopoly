@@ -1,3 +1,6 @@
+
+
+
 1
 Creamos el repositorio git; después creamos el proyecto de eclipse en la misma ruta
 que habiamos creado el repositorio git
